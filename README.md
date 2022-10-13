@@ -13,6 +13,6 @@ In 2019 the Rural city type had 125 rides. The suburban city type had 625 rides;
 
 In the fares category rural had the least amount with a total of 
 4327.93. Suburban had a total of 19356.33. And Urban had the most with a total of 39854.38. 
-![image](https://user-images.githubusercontent.com/112785655/195730848-15b55234-5fb8-4f19-ba73-141648b4466f.png)
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/112785655/195730987-359df321-0e93-4934-8374-11eb250187a5.png">
 
 
