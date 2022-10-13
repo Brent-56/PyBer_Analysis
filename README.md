@@ -6,6 +6,7 @@ The purpose of this assignment was to create analysis and visualizations you pro
 ###  Results
 In 2019 the Rural city type had 125 rides. The suburban city type had 625 rides; and urban had the most rides with 1625.
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/112785655/195728840-86d581bc-97bb-497f-b4a5-c566cbef1e39.png">
+ 
  In terms of drivers rural had the lowest amount with a total of 78. Suburban city type had a total of 490 drivers. Urban had the most with a total of 2405 drivers in total. 
  <img width="468" alt="image" src="https://user-images.githubusercontent.com/112785655/195730092-26b8662e-83a3-41da-96e8-e153f6c42843.png">
 
