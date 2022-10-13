@@ -4,12 +4,7 @@
 The purpose of this assignment was to create analysis and visualizations you produce will help Pyber improve access to ridesharing services. This project would also be able to compare a fare for different city types such as urban, suburban, and rural. Through this analysis we would also be able to determine number of drivers and riders for each different city type. From here information can be gathered to determine what would be the best course of action to resolve the issues regarding affordability and accessibility. There was a need to divide the city types into three categories because each city type has a unique set of issues, they face which often requires a unique response to the problem. 
 
 ###  Results
-In 2019 the Rural city type had 125 rides. The suburban city type had
- 625 rides; and urban had the most rides with 1625 rides in total
-
- In terms of drivers rural had the lowest ![image](https://user-images.githubusercontent.com/112785655/195728789-7fa6957f-8008-4f7d-a603-d32818e5cd19.png)
-
-
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/112785655/195728840-86d581bc-97bb-497f-b4a5-c566cbef1e39.png">
 
 
 ###  Results
