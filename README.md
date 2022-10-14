@@ -16,5 +16,7 @@ In the fares category rural had the least amount with a total of
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/112785655/195730987-359df321-0e93-4934-8374-11eb250187a5.png">
 
+
+### Summary
 For the summary Urban has the most rides, drivers and is most expensive in terms if fares. However, the average fare per ride is the cheapest amongst all the city types and has the cheapest average fare per driver. Suburban has 490 drivers, has $19,356.33 in terms of fares, averages $30.97 in terms of fares per ride and averages $39.50 fare per driver. Rural seems to have the lowest number of rides, drivers, and total fare price. However, it is the most expensive by average fare per ride and fare per driver. Rural has a total of 78 drivers, $4327.93 total in fares, average fare per ride of 34.62, and fare per driver is 55.49. Even though the last 2 categories are the most expensive for the rural city type it’s the least expensive in terms of total fares and has the least amount of rides.
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/112785655/195733683-87fcfd7b-9cd3-4ba4-a317-7e673a569427.png">
