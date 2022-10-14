@@ -21,3 +21,13 @@ The data here does not provide the full picture but it breaks down the basics in
 ### Summary
 For the summary Urban has the most rides, drivers and is most expensive in terms if fares. However, the average fare per ride is the cheapest amongst all the city types and has the cheapest average fare per driver. Suburban has 490 drivers, has $19,356.33 in terms of fares, averages $30.97 in terms of fares per ride and averages $39.50 fare per driver. Rural seems to have the lowest number of rides, drivers, and total fare price. However, it is the most expensive by average fare per ride and fare per driver. Rural has a total of 78 drivers, $4327.93 total in fares, average fare per ride of 34.62, and fare per driver is 55.49. Even though the last 2 categories are the most expensive for the rural city type it’s the least expensive in terms of total fares and has the least amount of rides.
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/112785655/195733683-87fcfd7b-9cd3-4ba4-a317-7e673a569427.png">
+
+
+## Resources 
+- https://www.google.com/search?q=how+to+add+image+to+readme.md+gitlab&sxsrf=ALiCzsZTSiE6Hh-eVb_xMBHT5H2nVz48Uw%3A1665690638293&ei=DmxIY9K9EZug5NoP9dSb0AU&oq=how+to+add+photos+to+a+readm&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQARgBMgYIABAWEB4yBggAEBYQHjIFCAAQhgMyBQgAEIYDOgQIIxAnOgQIABBDOhEILhCABBCxAxCDARDHARDRAzoICC4QsQMQgwE6CwguEIAEEMcBENEDOgsIABCABBCxAxCDAToFCAAQkQI6BQgAEIAEOggIABCxAxCDAToICAAQgAQQsQM6BQguEJECOgUIABCxA0oECEEYAEoECEYYAFAAWOJCYOpOaANwAHgAgAFziAGDEpIBBDI4LjOYAQCgAQHAAQE&sclient=gws-wiz-serp#kpvalbx=_m5pIY4rXNO_i5NoPmKWCoAg_65
+
+- https://pandas.pydata.org/docs/reference/api/pandas.pivot_table.html
+
+
+- https://pandas.pydata.org/pandas-docs/stable/user_guide/style.html
+
